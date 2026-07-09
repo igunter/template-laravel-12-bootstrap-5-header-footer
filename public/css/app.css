@@ -1,0 +1,7 @@
+* {
+    font-family: 'Nunito', sans-serif;
+}
+
+.bi-list {
+    -webkit-text-stroke: 0.5px currentColor;
+}
